@@ -62,13 +62,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SurajitM0nd0l&theme=dark&hide_border=true" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SurajitM0nd0l&show_icons=true&theme=dark&hide_border=true" />
