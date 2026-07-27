@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 - 🎓 CSE Undergraduate at **University of Engineering & Management (UEM), India**
 - 💡 Passionate about **Web Development, System Design & AI-powered applications**
-- 🧠 Solved **600+ problems on LeetCode** (Max Rating: **1644**, Top 20%)
+- 🧠 Solved **700+ problems on LeetCode** (Max Rating: **1788**, Top 9%)
 - 🚀 Actively building **scalable full-stack & GenAI projects**
 - 🎯 Aspiring **Software Engineer & Research-oriented Developer**
 
